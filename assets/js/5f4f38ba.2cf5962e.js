@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmhira_website=self.webpackChunkmhira_website||[]).push([[262],{6852:s=>{s.exports=JSON.parse('{"label":"Personality Disorders","permalink":"/blog/tags/personality-disorders","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

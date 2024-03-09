@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmhira_website=self.webpackChunkmhira_website||[]).push([[2627],{1728:e=>{e.exports=JSON.parse('{"label":"Adolescent Mental Health","permalink":"/blog/tags/adolescent-mental-health","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

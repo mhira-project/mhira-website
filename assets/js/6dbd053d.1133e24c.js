@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmhira_website=self.webpackChunkmhira_website||[]).push([[8687],{8711:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/adolescent-mental-health","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
