@@ -4,6 +4,8 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
+import PartnerLogos from '@site/src/components/PartnerLogos';
+import CentralQuote from '@site/src/components/CentralQuote';
 
 import styles from './index.module.css';
 import Head from '@docusaurus/Head';
@@ -43,6 +45,8 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <CentralQuote />
+        <PartnerLogos />
       </main>
     </Layout>
   );

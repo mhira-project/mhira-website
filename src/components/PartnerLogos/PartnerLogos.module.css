@@ -1,0 +1,6 @@
+.carouselContainer {
+    padding-top: 40px;    /* Add more space on the top */
+    padding-bottom: 125px; /* Add more space on the bottom */
+    width: 70%;
+    margin: 0 auto; 
+  }
