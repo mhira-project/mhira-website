@@ -17,6 +17,8 @@
   .centralQuoteContainer p {
     font-size: 18px;
     line-height: 1.6;
+    text-align: justify; /* Aligns text to be justified */
+    text-justify: inter-word; /* Improves spacing between words */
   }
   
   .centralImage {
